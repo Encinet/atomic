@@ -1,4 +1,4 @@
-package com.atomic.atomic;
+package com.encinet.atomic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
